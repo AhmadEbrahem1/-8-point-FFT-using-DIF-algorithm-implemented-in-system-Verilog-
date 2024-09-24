@@ -4,4 +4,4 @@
 
 References:
 https://digitalsystemdesign.in/fpga-implementation-of-8-point-fft/
-From Algorithms to Hardware ArchitecturesUsing Digital Radios as a Design Example,Dr KArin Abbas
+From Algorithms to Hardware Architectures Using Digital Radios as a Design Example,Dr KArin Abbas
